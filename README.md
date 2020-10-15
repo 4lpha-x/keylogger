@@ -12,4 +12,4 @@ Commands:
 
 Now your keylogger will launch <br>
 Press Esc key to stop the keylogger <br>
-The logged data will be saved in a .txt file named logged.txt in the same directory where the keylog.py is present
+The logged data will be saved in a .txt file named logged.txt in the same directory folder where the keylog.py is present
